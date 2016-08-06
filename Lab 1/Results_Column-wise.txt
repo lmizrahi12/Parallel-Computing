@@ -1,0 +1,42 @@
+For array size: 100
+	 Column-wise average time: 0.000135342
+
+For array size: 200
+	 Column-wise average time: 0.000712796
+
+For array size: 300
+	 Column-wise average time: 0.00198395
+
+For array size: 400
+	 Column-wise average time: 0.00450297
+
+For array size: 500
+	 Column-wise average time: 0.0089429
+
+For array size: 600
+	 Column-wise average time: 0.0186953
+
+For array size: 700
+	 Column-wise average time: 0.028584
+
+For array size: 800
+	 Column-wise average time: 0.0401751
+
+For array size: 900
+	 Column-wise average time: 0.0547194
+
+For array size: 1000
+	 Column-wise average time: 0.0739446
+
+For array size: 2000
+	 Column-wise average time: 0.206721
+
+For array size: 3000
+	 Column-wise average time: 0.512534
+
+For array size: 4000
+	 Column-wise average time: 0.962018
+
+For array size: 5000
+	 Column-wise average time: 1.75368
+
